@@ -1,0 +1,285 @@
+fileFormatVersion: 2
+guid: 0c34b7806a3124a4ea16bb5dbe6f3483
+timeCreated: 1505430949
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Body1
+    100002: joint10
+    100004: joint11
+    100006: joint12
+    100008: joint14
+    100010: joint15
+    100012: joint16
+    100014: joint17
+    100016: joint18
+    100018: joint2
+    100020: joint20
+    100022: joint21
+    100024: joint22
+    100026: joint23
+    100028: joint24
+    100030: joint26
+    100032: joint27
+    100034: joint28
+    100036: joint29
+    100038: joint3
+    100040: joint30
+    100042: joint32
+    100044: joint33
+    100046: joint34
+    100048: joint35
+    100050: joint36
+    100052: joint38
+    100054: joint39
+    100056: joint4
+    100058: joint40
+    100060: joint41
+    100062: joint42
+    100064: joint44
+    100066: joint45
+    100068: joint46
+    100070: joint47
+    100072: joint48
+    100074: joint5
+    100076: joint6
+    100078: joint8
+    100080: joint9
+    100082: //RootNode
+    100084: pCube2
+    100086: pCube3
+    100088: pSphere2
+    100090: Tentacle1
+    100092: Tentacle2
+    100094: Tentacle3
+    100096: Tentacle4
+    100098: Tentacle5
+    100100: Tentacle6
+    100102: Tentacle7
+    100104: Tentacle8
+    100106: transform1
+    100108: transform2
+    100110: transform3
+    100112: transform4
+    100114: transform5
+    100116: transform6
+    100118: transform7
+    100120: transform8
+    400000: Body1
+    400002: joint10
+    400004: joint11
+    400006: joint12
+    400008: joint14
+    400010: joint15
+    400012: joint16
+    400014: joint17
+    400016: joint18
+    400018: joint2
+    400020: joint20
+    400022: joint21
+    400024: joint22
+    400026: joint23
+    400028: joint24
+    400030: joint26
+    400032: joint27
+    400034: joint28
+    400036: joint29
+    400038: joint3
+    400040: joint30
+    400042: joint32
+    400044: joint33
+    400046: joint34
+    400048: joint35
+    400050: joint36
+    400052: joint38
+    400054: joint39
+    400056: joint4
+    400058: joint40
+    400060: joint41
+    400062: joint42
+    400064: joint44
+    400066: joint45
+    400068: joint46
+    400070: joint47
+    400072: joint48
+    400074: joint5
+    400076: joint6
+    400078: joint8
+    400080: joint9
+    400082: //RootNode
+    400084: pCube2
+    400086: pCube3
+    400088: pSphere2
+    400090: Tentacle1
+    400092: Tentacle2
+    400094: Tentacle3
+    400096: Tentacle4
+    400098: Tentacle5
+    400100: Tentacle6
+    400102: Tentacle7
+    400104: Tentacle8
+    400106: transform1
+    400108: transform2
+    400110: transform3
+    400112: transform4
+    400114: transform5
+    400116: transform6
+    400118: transform7
+    400120: transform8
+    2300000: pCube2
+    2300002: pSphere2
+    3300000: pCube2
+    3300002: pSphere2
+    4300000: pSphere2
+    4300002: pCube2
+    4300004: pCube3
+    7400000: Idle
+    7400002: Surprise
+    9500000: //RootNode
+    13700000: pCube3
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.9984686
+        functionName: IdleAnim
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Surprise
+      takeName: Take 001
+      firstFrame: 120
+      lastFrame: 192
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.99995327
+        functionName: SurpriseAnim
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

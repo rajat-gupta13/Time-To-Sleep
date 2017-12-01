@@ -1,0 +1,194 @@
+fileFormatVersion: 2
+guid: 3f7524c14e6566540bd6402122e6b4b8
+timeCreated: 1505699800
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: nurbsCircle1
+    100004: nurbsCircle2
+    100006: nurbsCircle3
+    100008: pasted__back
+    100010: pasted__Boy
+    100012: pasted__group3
+    100014: pasted__hip
+    100016: pasted__L_chest
+    100018: pasted__L_elbow
+    100020: pasted__L_shoulder
+    100022: pasted__L_wrist
+    100024: pasted__neck
+    100026: pasted__pCube3
+    100028: pasted__polySurface1
+    100030: pasted__polySurface10
+    100032: pasted__polySurface11
+    100034: pasted__polySurface12
+    100036: pasted__polySurface12 1
+    100038: pasted__polySurface3
+    100040: pasted__polySurface4
+    100042: pasted__polySurface5
+    100044: pasted__polySurface7
+    100046: pasted__polySurface8
+    100048: pasted__polySurface9
+    100050: pasted__pSphere2
+    100052: pasted__R_chest
+    100054: pasted__R_elbow
+    100056: pasted__R_shoulder
+    100058: pasted__R_wrist
+    100060: pasted__shoulder
+    100062: pasted__transform1
+    100064: pasted__transform10
+    100066: pasted__transform2
+    100068: pasted__transform3
+    100070: pasted__transform4
+    100072: pasted__transform5
+    100074: pasted__transform6
+    100076: pasted__transform7
+    100078: pasted__transform8
+    100080: pasted__transform9
+    100082: pCube2
+    100084: pCube3
+    100086: pCube5
+    100088: transform1
+    400000: //RootNode
+    400002: nurbsCircle1
+    400004: nurbsCircle2
+    400006: nurbsCircle3
+    400008: pasted__back
+    400010: pasted__Boy
+    400012: pasted__group3
+    400014: pasted__hip
+    400016: pasted__L_chest
+    400018: pasted__L_elbow
+    400020: pasted__L_shoulder
+    400022: pasted__L_wrist
+    400024: pasted__neck
+    400026: pasted__pCube3
+    400028: pasted__polySurface1
+    400030: pasted__polySurface10
+    400032: pasted__polySurface11
+    400034: pasted__polySurface12
+    400036: pasted__polySurface12 1
+    400038: pasted__polySurface3
+    400040: pasted__polySurface4
+    400042: pasted__polySurface5
+    400044: pasted__polySurface7
+    400046: pasted__polySurface8
+    400048: pasted__polySurface9
+    400050: pasted__pSphere2
+    400052: pasted__R_chest
+    400054: pasted__R_elbow
+    400056: pasted__R_shoulder
+    400058: pasted__R_wrist
+    400060: pasted__shoulder
+    400062: pasted__transform1
+    400064: pasted__transform10
+    400066: pasted__transform2
+    400068: pasted__transform3
+    400070: pasted__transform4
+    400072: pasted__transform5
+    400074: pasted__transform6
+    400076: pasted__transform7
+    400078: pasted__transform8
+    400080: pasted__transform9
+    400082: pCube2
+    400084: pCube3
+    400086: pCube5
+    400088: transform1
+    2300000: pasted__polySurface8
+    2300002: pasted__polySurface9
+    2300004: pCube2
+    2300006: pCube3
+    2300008: pCube5
+    3300000: pasted__polySurface8
+    3300002: pasted__polySurface9
+    3300004: pCube2
+    3300006: pCube3
+    3300008: pCube5
+    4300000: pCube2
+    4300002: pasted__polySurface12
+    4300004: pasted__polySurface10
+    4300006: pCube3
+    4300008: pCube5
+    4300010: pasted__polySurface8
+    4300012: pasted__polySurface9
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: pasted__polySurface10
+    13700002: pasted__polySurface12 1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
